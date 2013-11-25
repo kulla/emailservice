@@ -15,6 +15,7 @@ Interessante Links
 * http://prism-break.org/
 * https://github.com/sebsauvage/ZeroBin
 * http://cryptosphere.org/
+* http://sebsauvage.net/wiki/doku.php?id=php:zerobin --> https://github.com/sebsauvage/ZeroBin
 
 Begrifflichkeiten
 -----------------
